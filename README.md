@@ -9,5 +9,7 @@ The main insights generated in this process are as follows:
 - The latter being outside of Olist's direct control, improving it is not a quick-win recommendation
 - On the contrary, a better selection of `sellers` can positively impact the `delay_to_carrier` and reduce the number of bad `review_scores` on Olist.
 - Dropping the worst performing 746 sellers from the dataset results in the highest profit margin for Olist, with a profit of 1159342.24 BRL
-- However, the profit increase already starts stagnating when around 200 sellers are dropped. Considering this the main recommendation woud be to drop the worst performing 200 sellers from the e-commerce platform.
+- However, the profit increase already starts stagnating when around 200 sellers are dropped. 
+
+Considering the generated insights the main recommendation is to drop the worst performing 200 sellers from the e-commerce platform.
 
